@@ -7,8 +7,8 @@ A modern and responsive weather application that provides real-time weather info
 ## 📸 Preview
 
 <img width="1917" height="881" alt="image" src="https://github.com/user-attachments/assets/00885c86-342b-412d-bcf5-6757d0472804" />
-<img width="657" height="822" alt="image" src="https://github.com/user-attachments/assets/a7e00aac-3f6d-493d-a98d-eed21cb9a18e" />
-<img width="660" height="797" alt="image" src="https://github.com/user-attachments/assets/c9b597e3-2032-411c-9c64-a5b179b64ef1" />
+<img width="1917" height="841" alt="image" src="https://github.com/user-attachments/assets/5fc38022-67ed-48d4-a263-23754438bbd1" />
+
 
 
 
