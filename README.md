@@ -68,7 +68,7 @@ WeatherVista/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/WeatherVista.git
+git clone https://github.com/SameerBiswal1/CloudCast.git
 ```
 
 ### Open the Project
